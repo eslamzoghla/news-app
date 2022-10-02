@@ -1,0 +1,267 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Karla Adam",
+      "title": "British pound falls hard against the dollar after government mini-budget - The Washington Post",
+      "description": "The falling value of the British pound reflects markets' alarm over the government's dramatic slashing of taxes and expected increased borrowing.",
+      "url": "https://www.washingtonpost.com/world/2022/09/26/uk-gbp-pound-falls-usd-dollar/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-26-2022/t_5b1968cc9b904d8f9a7925e90df6bf0b_name_britishpoundsgrab.jpg&w=1440",
+      "publishedAt": "2022-09-26T18:38:18Z",
+      "content": "LONDON The pound hit an all-time low against the U.S. dollar on Monday, adding to global recession fears and reflecting a highly negative review of the new British governments plan for big tax cuts f… [+6775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Min, Tanaya Macheel",
+      "title": "Dow falls 300 points as surging dollar adds to market woes, S&P heads for new 2022 closing low - CNBC",
+      "description": "Investors are preparing for the S&P 500 to test its June low ahead of the final week of trading in September.",
+      "url": "https://www.cnbc.com/2022/09/25/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107064474-1653487248120-107064474-16530566462022-05-20t141117z_281936417_rc22bu9zpj7s_rtrmadp_0_usa-stocks.jpg?v=1664212138&w=1920&h=1080",
+      "publishedAt": "2022-09-26T18:23:00Z",
+      "content": "The Dow Jones Industrial Average slipped on Monday and the S&amp;P 500 approached a new closing low for the year as interest rates surged and turmoil rocked global currencies.\r\nThe Dow dropped 291 po… [+1811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Mike Calia, Dan Mangan",
+      "title": "Three men charged with fraud in $100 million New Jersey deli scheme - CNBC",
+      "description": "The indictments are the latest shocking twist involving Your Hometown Deli in Paulsboro, New Jersey.",
+      "url": "https://www.cnbc.com/2022/09/26/three-men-charged-with-fraud-in-100-million-new-jersey-deli-scheme.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106873437-1619361935634Unknown-2-jpg?v=1664215243&w=1920&h=1080",
+      "publishedAt": "2022-09-26T17:58:24Z",
+      "content": "Three men were charged with fraud and other crimes in a scheme involving a company that was worth $100 million in the stock market despite having only a small-town New Jersey deli to its name, federa… [+3952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Pound crashes to all-time low as UK chancellor hints at more tax cuts - Channel 4 News",
+      "description": "Chancellor Kwasi Kwarteng was today forced to quell growing market unease over his low-tax, high borrowing strategy with a promise to set out more details in...",
+      "url": "https://www.youtube.com/watch?v=5AZ_9qpbios",
+      "urlToImage": "https://i.ytimg.com/vi/5AZ_9qpbios/hqdefault.jpg",
+      "publishedAt": "2022-09-26T17:47:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Tom Huddleston",
+      "title": "Mark Cuban says 25% of his ‘Shark Tank’ deals are flops: ‘What the hell was I thinking?’ - CNBC",
+      "description": "Mark Cuban has \"no regrets\" when it comes to his \"Shark Tank\" investing track record, even though he says roughly one in four of his deals turn into flops.",
+      "url": "https://www.cnbc.com/2022/09/26/mark-cuban-says-many-of-his-shark-tank-investment-deals-are-flops.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106195979-1571756914823rts2s7na.jpg?v=1664213340&w=1920&h=1080",
+      "publishedAt": "2022-09-26T17:29:00Z",
+      "content": "After 13 seasons on ABC's \"Shark Tank,\" Mark Cuban estimates that he's had about as many hits as misses.\r\nSome of his on-screen deals have worked out great, he says. Others, not so much. Such is the … [+3001 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Colby Smith",
+      "title": "Fed official warns UK tax cuts increase risk of global recession - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/4eb509e8-9493-4ca4-bf0f-c5bde8a452b3",
+      "urlToImage": null,
+      "publishedAt": "2022-09-26T17:16:27Z",
+      "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Bank will 'not hesitate' to raise interest rates after pound's fall - BBC",
+      "description": "The Bank of England will not hold an emergency meeting to set interest rates after the pound fell.",
+      "url": "https://www.bbc.com/news/business-63039687",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/92E1/production/_126810673_gettyimages-515472156.jpg",
+      "publishedAt": "2022-09-26T16:47:24Z",
+      "content": "By Michael RaceBusiness reporter, BBC News\r\nThe Bank of England has said it will \"not hesitate\" to hike interest rates to curb inflation after the pound fell to a record low against the US dollar.\r\nT… [+4870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Cortney Moore",
+      "title": "Secret 'overemployment' grows as a remote work trend, but risks are involved - Fox Business",
+      "description": "A growing number of remote workers in the U.S. appear to be taking on two full-time jobs to raise their incomes and achieve financial freedom through overemployment. But there are risks.",
+      "url": "https://www.foxbusiness.com/lifestyle/secretly-overemployment-grows-remote-work-trend-risks-involved",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/12/0/0/zoom-working-from-home.jpg?ve=1&tl=1",
+      "publishedAt": "2022-09-26T16:29:44Z",
+      "content": "Some remote workers are juggling two full-time jobs as the \"overemployed\" movement gains steam online, thanks to social media platforms like Reddit.\r\nThe r/Overemployed subreddit, which was begun in … [+9258 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Purdy",
+      "title": "Interpol issues red notice for crypto founder Do Kwon - Ars Technica",
+      "description": "Punchy creator of Luna and Terra coins sought in $40 billion currency collapse.",
+      "url": "https://arstechnica.com/gadgets/2022/09/interpol-issues-red-notice-for-crypto-founder-do-kwon/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1241318864-760x380.jpg",
+      "publishedAt": "2022-09-26T16:27:43Z",
+      "content": "Enlarge/ Terra, the \"algorithmic stablecoin\" designed to stick close to the value of the US dollar, collapsed in May 2022, spurring a wider crypto sell-off.\r\n39 with 35 posters participating\r\nDo Kwon… [+3383 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah O'Brien",
+      "title": "Home purchase cancellations are above 15% for the second straight month. It's important to know the financial repercussions - CNBC",
+      "description": "If you're thinking about canceling your contract, be sure you know what the financial repercussions would be.",
+      "url": "https://www.cnbc.com/2022/09/26/home-buyers-are-canceling-purchase-contracts-what-to-know-before-you-do.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107069007-1654002346579-gettyimages-1397968069-forsale.jpeg?v=1664208861&w=1920&h=1080",
+      "publishedAt": "2022-09-26T16:14:21Z",
+      "content": "Amid higher interest rates and a softening housing market, home buyers are continuing to back out of purchase contracts at an elevated rate.\r\nAbout 64,000 home-purchase agreements were canceled in Au… [+4005 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Kate Sullivan",
+      "title": "Biden to announce new rules for airlines and travel sites to be more transparent about additional fees - CNN",
+      "description": "President Joe Biden on Monday is expected to announce a new proposed rule that would require airlines and travel sites to be more transparent about additional fees that customers could be charged, including for baggage, flight changes or cancellations, a Whit…",
+      "url": "https://www.cnn.com/2022/09/26/politics/biden-airlines-hidden-fees/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220925193145-01-biden-airlines-hidden-fees.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-26T16:08:00Z",
+      "content": "President Joe Biden on Monday is expected to announce a new proposed rule that would require airlines and travel sites to be more transparent about additional fees that customers could be charged, in… [+3428 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf",
+      "title": "Walmart enters the metaverse with Roblox experiences - CNN",
+      "description": "Walmart has entered the metaverse.",
+      "url": "https://www.cnn.com/2022/09/26/business/walmart-roblox-metaverse/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220926100841-01-walmart-roblox-metaverse.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-26T15:46:00Z",
+      "content": "Walmart\r\n(WMT) has entered the metaverse.\r\nThe retail giant announced Monday it is launching two immersive online experiences with Roblox, a metaverse mega-platform extremely popular with young kids.… [+1810 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Owen Bellwood",
+      "title": "Convertibles Might be the Biggest Casualty in Our Switch to EVs - Jalopnik",
+      "description": "Sales of convertible sports cars are plummeting as drivers switch to more 'practical' and 'durable' electric vehicles.",
+      "url": "https://jalopnik.com/convertibles-might-be-the-biggest-casualty-in-our-switc-1849580383",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4cdf1cb28a9afd8c5c7c3ed3be730ad9.jpg",
+      "publishedAt": "2022-09-26T15:30:00Z",
+      "content": "Drivers in the U.S. are falling out of love with the convertible sports car, electric car buyers still want to be able to shop at a dealership, and Mazda is thinking about closing its operation in Ru… [+6730 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "The S&P ultimately goes down to $3000, says The Satori Fund's Dan Niles - CNBC Television",
+      "description": "Dan Niles, Satori Fund founder, joins 'Squawk Box' to discuss whether a bear market rally may be upon us soon. For access to live and exclusive video from CN...",
+      "url": "https://www.youtube.com/watch?v=02Psw6Y1Pc0",
+      "urlToImage": "https://i.ytimg.com/vi/02Psw6Y1Pc0/hqdefault.jpg",
+      "publishedAt": "2022-09-26T14:56:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Yaron Steinbuch",
+      "title": "Bizarre noises take over American Airlines flight intercom - New York Post ",
+      "description": "A passenger on an American Airlines flight has shared disturbing audio from the PA system that he described as “somewhere between an orgasm and vomiting.”",
+      "url": "https://nypost.com/2022/09/26/bizarre-noises-take-over-american-airlines-flight-intercom/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/flight-noise1.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-09-26T14:44:00Z",
+      "content": "Well, this is just plane weird.\r\nPassengers on board a Dallas-bound American Airlines flight earlier this month reported hearing bizarre noises from the plane’s PA system — which one traveler describ… [+3822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "ZeroHedge",
+      "title": "Tesla Gigafactory Catches Fire In Germany - OilPrice.com",
+      "description": "Tesla's Germany gigafactory caught fire, prompting a local group of environmentalists who have been fighting the company to call for Tesla to stop production.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Tesla-Gigafactory-Catches-Fire-In-Germany.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2022-09-26_lzg6wun2ks.jpg",
+      "publishedAt": "2022-09-26T14:30:00Z",
+      "content": "As European countries race to…\r\nIndia is buying less Russian…\r\nBy ZeroHedge - Sep 26, 2022, 9:30 AM CDTA major fire appears to have broken out at Tesla's Berlin recycling plant, prompting a local gro… [+1356 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Guardian staff reporter",
+      "title": "Elon Musk to face deposition by Twitter lawyers ahead of trial - The Guardian",
+      "description": "Attorneys are expected to use the interview to try to show that Musk abandoned the deal due to falling financial markets",
+      "url": "https://amp.theguardian.com/technology/2022/sep/26/elon-musk-deposition-twitter-lawyers",
+      "urlToImage": null,
+      "publishedAt": "2022-09-26T14:13:00Z",
+      "content": "Elon MuskAttorneys are expected to use the interview to try to show that Musk abandoned the deal due to falling financial markets\r\nGuardian staff and agencies\r\nMon 26 Sep 2022 10.13 EDT\r\nElon Musk is… [+1928 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Tomi Kilgore",
+      "title": "APEs sink toward new low after AMC discloses deal for sale of up to $1.4 billion worth of shares - MarketWatch",
+      "description": "Shares of AMC Preferred Equity Units undefined, known as \"APEs,\" dropped 7.8% toward a new low in morning trading Monday, after AMC Entertainment Holdings...",
+      "url": "https://www.marketwatch.com/story/apes-sink-toward-new-low-after-amc-discloses-deal-for-sale-of-up-to-14-billion-worth-of-shares-2022-09-26",
+      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "publishedAt": "2022-09-26T14:11:00Z",
+      "content": "Shares of AMC Preferred Equity Units \r\n APE,\r\n +6.15%\r\n,known as \"APEs,\" dropped 7.8% toward a new low in morning trading Monday, after AMC Entertainment Holdings Inc. \r\n AMC,\r\n -8.01%\r\ndisclosed a d… [+616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "El-Erian says the Fed has made a 'policy mistake of historical proportions' - CNBC",
+      "description": "Investors are paying the paying the price for the Federal Reserve's policy mistakes, according to Mohamed El-Erian.",
+      "url": "https://www.cnbc.com/2022/09/26/el-erian-says-the-fed-has-made-a-policy-mistake-of-historical-proportions.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106216485-1572545732717nup_187507_0320.jpg?v=1664200179&w=1920&h=1080",
+      "publishedAt": "2022-09-26T13:49:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Alex Harring",
+      "title": "The Morgan Stanley strategist who called the bear market says the S&P could fall to the low 3000s - CNBC",
+      "description": "Rate hikes, net-negative money and an earnings recession all fuel the estimate.",
+      "url": "https://www.cnbc.com/2022/09/26/a-morgan-stanley-exec-says-the-sp-could-fall-to-the-low-3000s.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104955709-20180119-1683-2543-1.jpg?v=1664198536&w=1920&h=1080",
+      "publishedAt": "2022-09-26T13:22:16Z",
+      "content": null
+    }
+  ]
+}
+
